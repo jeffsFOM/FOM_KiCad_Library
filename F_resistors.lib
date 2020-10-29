@@ -1,0 +1,507 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# R_0603_100K
+#
+DEF R_0603_100K R 0 10 N N 1 F N
+F0 "R" 30 20 50 H V L CNN
+F1 "R_0603_100K" 30 -40 50 H I L CNN
+F2 "Resistor_SMD:R_0603_1608Metric" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "100K" 0 0 50 H V C CNN "Val"
+F5 "1%" 0 0 50 H I C CNN "tol"
+F6 "0.1W" 0 0 50 H I C CNN "Watt"
+F7 "Panasonic Electronic Components" 0 0 50 H I C CNN "Mfr"
+F8 "ERJ-3EKF1003V" 0 0 50 H I C CNN "MfrPn"
+F9 "P100KHTR-ND" 0 0 50 H I C CNN "DK_pn"
+F10 "RES SMD 100K OHM 1% 1/10W 0603" 0 0 50 H I C CNN "Desc"
+F11 "100 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film" 0 0 50 H I C CNN "Detailed"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+P 5 1 1 0 0 0 40 -15 0 -30 -40 -45 0 -60 N
+P 5 1 1 0 0 60 40 45 0 30 -40 15 0 0 N
+X ~ 1 0 100 40 D 50 50 1 1 P
+X ~ 2 0 -100 40 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_0603_10K
+#
+DEF R_0603_10K R 0 10 N N 1 F N
+F0 "R" 30 20 50 H V L CNN
+F1 "R_0603_10K" 30 -40 50 H I L CNN
+F2 "Resistor_SMD:R_0603_1608Metric" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "10K" 0 0 50 H V C CNN "Val"
+F5 "1%" 0 0 50 H I C CNN "tol"
+F6 "1/10W" 0 0 50 H I C CNN "Watt"
+F7 "Panasonic Electronic Components" 0 0 50 H I C CNN "Mfr"
+F8 "ERJ-3EKF1002V" 0 0 50 H I C CNN "MfrPn"
+F9 "P10.0KHTR-ND" 0 0 50 H I C CNN "DK_pn"
+F10 "RES SMD 10K OHM 1% 1/10W 0603" 0 0 50 H I C CNN "Desc"
+F11 "10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film" 0 0 50 H I C CNN "Detailed"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+P 5 1 1 0 0 0 40 -15 0 -30 -40 -45 0 -60 N
+P 5 1 1 0 0 60 40 45 0 30 -40 15 0 0 N
+X ~ 1 0 100 40 D 50 50 1 1 P
+X ~ 2 0 -100 40 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_0603_15
+#
+DEF R_0603_15 R 0 10 N N 1 F N
+F0 "R" 30 20 50 H V L CNN
+F1 "R_0603_15" 30 -40 50 H I L CNN
+F2 "Resistor_SMD:R_0603_1608Metric" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "15" 0 0 50 H V C CNN "Val"
+F5 "1%" 0 0 50 H I C CNN "tol"
+F6 "0.1W" 0 0 50 H I C CNN "Watt"
+F7 "Yageo" 0 0 50 H I C CNN "Mfr"
+F8 "RC0603FR-0715RL" 0 0 50 H I C CNN "MfrPn"
+F9 "311-15.0HRTR-ND" 0 0 50 H I C CNN "DK_pn"
+F10 "RES SMD 15 OHM 1% 1/10W 0603" 0 0 50 H I C CNN "Desc"
+F11 "15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film" 0 0 50 H I C CNN "Detailed"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+P 5 1 1 0 0 0 40 -15 0 -30 -40 -45 0 -60 N
+P 5 1 1 0 0 60 40 45 0 30 -40 15 0 0 N
+X ~ 1 0 100 40 D 50 50 1 1 P
+X ~ 2 0 -100 40 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_0603_200
+#
+DEF R_0603_200 R 0 0 N Y 1 F N
+F0 "R" 100 0 50 V V C CNN
+F1 "R_0603_200" -100 0 50 V I C CNN
+F2 "Resistor_SMD:R_0603_1608Metric" 40 -10 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "200" 0 0 50 V V C CNN "Val"
+F5 "1%" 0 0 50 H I C CNN "tol"
+F6 "1/16W" 0 0 50 H I C CNN "Watt"
+F7 "Panasonic Electronic Components" 0 0 50 H I C CNN "Mfr"
+F8 "ERJ-3EKF2000V" 0 0 50 H I C CNN "MfrPn"
+F9 "P200HTR-ND" 0 0 50 H I C CNN "DK_pn"
+F10 "RES SMD 200 OHM 1% 1/10W 0603" 0 0 50 H I C CNN "Desc"
+F11 "200 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film" 0 0 50 H I C CNN "Detailed"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 0 -90 0 -100 N
+P 2 0 1 0 0 90 0 100 N
+P 5 0 1 0 0 -30 40 -45 0 -60 -40 -75 0 -90 N
+P 5 0 1 0 0 30 40 15 0 0 -40 -15 0 -30 N
+P 5 0 1 0 0 90 40 75 0 60 -40 45 0 30 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_0603_221K
+#
+DEF R_0603_221K R 0 0 N Y 1 F N
+F0 "R" 100 0 50 V V C CNN
+F1 "R_0603_221K" -100 0 50 V I C CNN
+F2 "Resistor_SMD:R_0603_1608Metric" 40 -10 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "221K" 0 0 50 V V C CNN "Val"
+F5 "1%" 0 0 50 H I C CNN "tol"
+F6 "1/16W" 0 0 50 H I C CNN "Watt"
+F7 "Panasonic Electronic Components" 0 0 80 H I C CNN "Mfr"
+F8 "ERJ-3EKF2213V" 0 0 80 H I C CNN "MfrPn"
+F9 "P221KHTR-ND" 0 0 80 H I C CNN "DK_pn"
+F10 "RES SMD 221K OHM 1% 1/10W 0603" 0 0 80 H I C CNN "Desc"
+F11 "221 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film" 0 0 80 H I C CNN "Detailed"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 0 -90 0 -100 N
+P 2 0 1 0 0 90 0 100 N
+P 5 0 1 0 0 -30 40 -45 0 -60 -40 -75 0 -90 N
+P 5 0 1 0 0 30 40 15 0 0 -40 -15 0 -30 N
+P 5 0 1 0 0 90 40 75 0 60 -40 45 0 30 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_0603_240K
+#
+DEF R_0603_240K R 0 10 N N 1 F N
+F0 "R" 30 20 50 H V L CNN
+F1 "R_0603_240K" 30 -40 50 H I L CNN
+F2 "Resistor_SMD:R_0603_1608Metric" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "240K" 0 0 50 H V C CNN "Val"
+F5 "1%" 0 0 50 H I C CNN "tol"
+F6 "0.1W" 0 0 50 H I C CNN "Watt"
+F7 "Panasonic Electronic Components" 0 0 50 H I C CNN "Mfr"
+F8 "ERJ-3EKF2403V" 0 0 50 H I C CNN "MfrPn"
+F9 "P240KHTR-ND" 0 0 50 H I C CNN "DK_pn"
+F10 "RES SMD 240K OHM 1% 1/10W 0603" 0 0 50 H I C CNN "Desc"
+F11 "240 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film" 0 0 50 H I C CNN "Detailed"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+P 5 1 1 0 0 0 40 -15 0 -30 -40 -45 0 -60 N
+P 5 1 1 0 0 60 40 45 0 30 -40 15 0 0 N
+X ~ 1 0 100 40 D 50 50 1 1 P
+X ~ 2 0 -100 40 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_0603_3.3
+#
+DEF R_0603_3.3 R 0 10 N N 1 F N
+F0 "R" 30 20 50 H V L CNN
+F1 "R_0603_3.3" 30 -40 50 H I L CNN
+F2 "Resistor_SMD:R_0603_1608Metric" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "3.3" 0 0 50 H V C CNN "Val"
+F5 "1%" 0 0 50 H I C CNN "tol"
+F6 "0.1W" 0 0 50 H I C CNN "Watt"
+F7 "Panasonic Electronic Components" 0 0 50 H I C CNN "Mfr"
+F8 "ERJ-3RQF3R3V" 0 0 50 H I C CNN "MfrPn"
+F9 "P3.3AJTR-ND" 0 0 50 H I C CNN "DK_pn"
+F10 "RES SMD 3.3 OHM 1% 1/10W 0603" 0 0 50 H I C CNN "Desc"
+F11 "3.3 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200, Current Sense Thick Film" 0 0 50 H I C CNN "Detailed"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+P 5 1 1 0 0 0 40 -15 0 -30 -40 -45 0 -60 N
+P 5 1 1 0 0 60 40 45 0 30 -40 15 0 0 N
+X ~ 1 0 100 40 D 50 50 1 1 P
+X ~ 2 0 -100 40 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_0603_392
+#
+DEF R_0603_392 R 0 10 N N 1 F N
+F0 "R" 30 20 50 H V L CNN
+F1 "R_0603_392" 30 -40 50 H I L CNN
+F2 "Resistor_SMD:R_0603_1608Metric" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "392" 0 0 50 H V C CNN "Val"
+F5 "1%" 0 0 50 H I C CNN "tol"
+F6 "0.1W" 0 0 50 H I C CNN "Watt"
+F7 "Panasonic Electronic Components" 0 0 50 H I C CNN "Mfr"
+F8 "ERJ-3EKF3920V" 0 0 50 H I C CNN "MfrPn"
+F9 "P392HTR-ND" 0 0 50 H I C CNN "DK_pn"
+F10 "RES SMD 392 OHM 1% 1/10W 0603" 0 0 50 H I C CNN "Desc"
+F11 "392 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film" 0 0 50 H I C CNN "Detailed"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+P 5 1 1 0 0 0 40 -15 0 -30 -40 -45 0 -60 N
+P 5 1 1 0 0 60 40 45 0 30 -40 15 0 0 N
+X ~ 1 0 100 40 D 50 50 1 1 P
+X ~ 2 0 -100 40 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_0603_4.75K
+#
+DEF R_0603_4.75K R 0 0 N Y 1 F N
+F0 "R" 100 0 50 V V C CNN
+F1 "R_0603_4.75K" -100 0 50 V I C CNN
+F2 "Resistor_SMD:R_0603_1608Metric" 40 -10 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "4.75K" 0 0 50 V I C CNN "Val"
+F5 "1%" 0 0 50 H I C CNN "tol"
+F6 "1/16W" 0 0 50 H I C CNN "Watt"
+F7 "Panasonic Electronic Components" 0 0 50 H I C CNN "Mfr"
+F8 "ERJ-3EKF4751V" 0 0 50 H I C CNN "MfrPn"
+F9 "P4.75KHTR-ND" 0 0 50 H I C CNN "DK_pn"
+F10 "RES SMD 4.75K OHM 1% 1/10W 0603" 0 0 50 H I C CNN "Desc"
+F11 "4.75 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film" 0 0 50 H I C CNN "Detailed"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 0 -90 0 -100 N
+P 2 0 1 0 0 90 0 100 N
+P 5 0 1 0 0 -30 40 -45 0 -60 -40 -75 0 -90 N
+P 5 0 1 0 0 30 40 15 0 0 -40 -15 0 -30 N
+P 5 0 1 0 0 90 40 75 0 60 -40 45 0 30 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_0603_475
+#
+DEF R_0603_475 R 0 10 N N 1 F N
+F0 "R" 30 20 50 H V L CNN
+F1 "R_0603_475" 30 -40 50 H I L CNN
+F2 "Resistor_SMD:R_0603_1608Metric" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "475" 0 0 50 H V C CNN "Val"
+F5 "1%" 0 0 50 H I C CNN "tol"
+F6 "0.1W" 0 0 50 H I C CNN "Watt"
+F7 "Panasonic Electronic Components" 0 0 50 H I C CNN "Mfr"
+F8 "ERJ-3EKF4750V" 0 0 50 H I C CNN "MfrPn"
+F9 "P475HTR-ND" 0 0 50 H I C CNN "DK_pn"
+F10 "RES SMD 475 OHM 1% 1/10W 0603" 0 0 50 H I C CNN "Desc"
+F11 "475 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film" 0 0 50 H I C CNN "Detailed"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+P 5 1 1 0 0 0 40 -15 0 -30 -40 -45 0 -60 N
+P 5 1 1 0 0 60 40 45 0 30 -40 15 0 0 N
+X ~ 1 0 100 40 D 50 50 1 1 P
+X ~ 2 0 -100 40 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_0603_66.5K
+#
+DEF R_0603_66.5K R 0 10 N N 1 F N
+F0 "R" 30 20 50 H V L CNN
+F1 "R_0603_66.5K" 30 -40 50 H I L CNN
+F2 "Resistor_SMD:R_0603_1608Metric" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "66.5K" 0 0 50 H V C CNN "Val"
+F5 "1%" 0 0 50 H I C CNN "tol"
+F6 "0.1W" 0 0 50 H I C CNN "Watt"
+F7 "Panasonic Electronic Components" 0 0 50 H I C CNN "Mfr"
+F8 "ERJ-3EKF6652V" 0 0 50 H I C CNN "MfrPn"
+F9 "P66.5KHTR-ND" 0 0 50 H I C CNN "DK_pn"
+F10 "RES SMD 66.5K OHM 1% 1/10W 0603" 0 0 50 H I C CNN "Desc"
+F11 "66.5 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film" 0 0 50 H I C CNN "Detailed"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+P 5 1 1 0 0 0 40 -15 0 -30 -40 -45 0 -60 N
+P 5 1 1 0 0 60 40 45 0 30 -40 15 0 0 N
+X ~ 1 0 100 40 D 50 50 1 1 P
+X ~ 2 0 -100 40 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_0603_68.1
+#
+DEF R_0603_68.1 R 0 10 N N 1 F N
+F0 "R" 30 20 50 H V L CNN
+F1 "R_0603_68.1" 30 -40 50 H I L CNN
+F2 "Resistor_SMD:R_0603_1608Metric" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "68.1" 0 0 50 H V C CNN "Val"
+F5 "1%" 0 0 50 H I C CNN "tol"
+F6 "0.1W" 0 0 50 H I C CNN "Watt"
+F7 "Panasonic Electronic Components" 0 0 50 H I C CNN "Mfr"
+F8 "ERJ-3EKF68R1V" 0 0 50 H I C CNN "MfrPn"
+F9 "P68.1HTR-ND" 0 0 50 H I C CNN "DK_pn"
+F10 "RES SMD 68.1 OHM 1% 1/10W 0603" 0 0 50 H I C CNN "Desc"
+F11 "68.1 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film" 0 0 50 H I C CNN "Detailed"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+P 5 1 1 0 0 0 40 -15 0 -30 -40 -45 0 -60 N
+P 5 1 1 0 0 60 40 45 0 30 -40 15 0 0 N
+X ~ 1 0 100 40 D 50 50 1 1 P
+X ~ 2 0 -100 40 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_0603_8.2K
+#
+DEF R_0603_8.2K R 0 10 N N 1 F N
+F0 "R" 30 20 50 H V L CNN
+F1 "R_0603_8.2K" 30 -40 50 H I L CNN
+F2 "Resistor_SMD:R_0603_1608Metric" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "8.2K" 0 0 50 H V C CNN "Val"
+F5 "1%" 0 0 50 H I C CNN "tol"
+F6 "0.1W" 0 0 50 H I C CNN "Watt"
+F7 "Vishay Dale" 0 0 50 H I C CNN "Mfr"
+F8 "CRCW06038K20FKEA" 0 0 50 H I C CNN "MfrPn"
+F9 "541-8.20KHTR-ND" 0 0 50 H I C CNN "DK_pn"
+F10 "RES SMD 8.2K OHM 1% 1/10W 0603" 0 0 50 H I C CNN "Desc"
+F11 "8.2 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film" 0 0 50 H I C CNN "Detailed"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+P 5 1 1 0 0 0 40 -15 0 -30 -40 -45 0 -60 N
+P 5 1 1 0 0 60 40 45 0 30 -40 15 0 0 N
+X ~ 1 0 100 40 D 50 50 1 1 P
+X ~ 2 0 -100 40 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_0805_100K
+#
+DEF R_0805_100K R 0 10 N N 1 F N
+F0 "R" 30 20 50 H V L CNN
+F1 "R_0805_100K" 30 -40 50 H I L CNN
+F2 "Resistor_SMD:R_0805_2012Metric" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "100K" 0 0 50 H V C CNN "Val"
+F5 "1%" 0 0 50 H I C CNN "tol"
+F6 "0.125W" 0 0 50 H I C CNN "Watt"
+F7 "Stackpole Electronics Inc" 0 0 50 H I C CNN "Mfr"
+F8 "RMCF0805FT100K" 0 0 50 H I C CNN "MfrPn"
+F9 "RMCF0805FT100KTR-ND" 0 0 50 H I C CNN "DK_pn"
+F10 "RES 100K OHM 1% 1/8W 0805" 0 0 50 H I C CNN "Desc"
+F11 "100 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film" 0 0 50 H I C CNN "Detailed"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+P 5 1 1 0 0 0 40 -15 0 -30 -40 -45 0 -60 N
+P 5 1 1 0 0 60 40 45 0 30 -40 15 0 0 N
+X ~ 1 0 100 40 D 50 50 1 1 P
+X ~ 2 0 -100 40 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_0805_191K
+#
+DEF R_0805_191K R 0 10 N N 1 F N
+F0 "R" 30 20 50 H V L CNN
+F1 "R_0805_191K" 30 -40 50 H I L CNN
+F2 "Resistor_SMD:R_0805_2012Metric" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "191K" 0 0 50 H V C CNN "Val"
+F5 "1%" 0 0 50 H I C CNN "tol"
+F6 "0.125W" 0 0 50 H I C CNN "Watt"
+F7 "Panasonic Electronic Components" 0 0 50 H I C CNN "Mfr"
+F8 "ERJ-6ENF1913V" 0 0 50 H I C CNN "MfrPn"
+F9 "P191KCTR-ND" 0 0 50 H I C CNN "DK_pn"
+F10 "RES SMD 191K OHM 1% 1/8W 0805" 0 0 50 H I C CNN "Desc"
+F11 "191 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film" 0 0 50 H I C CNN "Detailed"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+P 5 1 1 0 0 0 40 -15 0 -30 -40 -45 0 -60 N
+P 5 1 1 0 0 60 40 45 0 30 -40 15 0 0 N
+X ~ 1 0 100 40 D 50 50 1 1 P
+X ~ 2 0 -100 40 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_0805_475K
+#
+DEF R_0805_475K R 0 10 N N 1 F N
+F0 "R" 30 20 50 H V L CNN
+F1 "R_0805_475K" 30 -40 50 H I L CNN
+F2 "Resistor_SMD:R_0805_2012Metric" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "475K" 0 0 50 H V C CNN "Val"
+F5 "1%" 0 0 50 H I C CNN "tol"
+F6 "0.125W" 0 0 50 H I C CNN "Watt"
+F7 "Panasonic Electronic Components" 0 0 50 H I C CNN "Mfr"
+F8 "ERJ-6ENF4753V" 0 0 50 H I C CNN "MfrPn"
+F9 "P475KCTR-ND" 0 0 50 H I C CNN "DK_pn"
+F10 "RES SMD 475K OHM 1% 1/8W 0805" 0 0 50 H I C CNN "Desc"
+F11 "475 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film" 0 0 50 H I C CNN "Detailed"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+P 5 1 1 0 0 0 40 -15 0 -30 -40 -45 0 -60 N
+P 5 1 1 0 0 60 40 45 0 30 -40 15 0 0 N
+X ~ 1 0 100 40 D 50 50 1 1 P
+X ~ 2 0 -100 40 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_2512_15K
+#
+DEF R_2512_15K R 0 10 N N 1 F N
+F0 "R" 30 20 50 H V L CNN
+F1 "R_2512_15K" 30 -40 50 H I L CNN
+F2 "Resistor_SMD:R_2512_6332Metric" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "15K" 0 0 50 H V C CNN "Val"
+F5 "1%" 0 0 50 H I C CNN "tol"
+F6 "1W" 0 0 50 H V C CNN "Watt"
+F7 "Vishay Dale" 0 0 50 H I C CNN "Mfr"
+F8 "CRCW251215K0FKEG" 0 0 50 H I C CNN "MfrPn"
+F9 "541-15.0KAFTR-ND" 0 0 50 H I C CNN "DK_pn"
+F10 "RES SMD 15K OHM 1% 1W 2512" 0 0 50 H I C CNN "Desc"
+F11 "15 kOhms ±1% 1W Chip Resistor 2512 (6432 Metric) Automotive AEC-Q200 Thick Film" 0 0 50 H I C CNN "Detailed"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+P 5 1 1 0 0 0 40 -15 0 -30 -40 -45 0 -60 N
+P 5 1 1 0 0 60 40 45 0 30 -40 15 0 0 N
+X ~ 1 0 100 40 D 50 50 1 1 P
+X ~ 2 0 -100 40 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_2512_18K
+#
+DEF R_2512_18K R 0 10 N N 1 F N
+F0 "R" 30 20 50 H V L CNN
+F1 "R_2512_18K" 30 -40 50 H I L CNN
+F2 "Resistor_SMD:R_2512_6332Metric" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "18K" 0 0 50 H V C CNN "Val"
+F5 "5%" 0 0 50 H I C CNN "tol"
+F6 "1W" 0 0 50 H V C CNN "Watt"
+F7 "Panasonic Electronic Components" 0 0 50 H I C CNN "Mfr"
+F8 "ERJ-1TYJ183U" 0 0 50 H I C CNN "MfrPn"
+F9 "PT18KXTR-ND" 0 0 50 H I C CNN "DK_pn"
+F10 "RES SMD 18K OHM 5% 1W 2512" 0 0 50 H I C CNN "Desc"
+F11 "18 kOhms ±5% 1W Chip Resistor 2512 (6432 Metric) Automotive AEC-Q200 Thick Film" 0 0 50 H I C CNN "Detailed"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+P 5 1 1 0 0 0 40 -15 0 -30 -40 -45 0 -60 N
+P 5 1 1 0 0 60 40 45 0 30 -40 15 0 0 N
+X ~ 1 0 100 40 D 50 50 1 1 P
+X ~ 2 0 -100 40 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_2512_20
+#
+DEF R_2512_20 R 0 10 N N 1 F N
+F0 "R" 30 20 50 H V L CNN
+F1 "R_2512_20" 30 -40 50 H I L CNN
+F2 "Resistor_SMD:R_2512_6332Metric" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "20" 0 0 50 H V C CNN "Val"
+F5 "1%" 0 0 50 H I C CNN "tol"
+F6 "1W" 0 0 50 H V C CNN "Watt"
+F7 "Vishay Dale" 0 0 50 H I C CNN "Mfr"
+F8 "CRCW251220R0FKEG" 0 0 50 H I C CNN "MfrPn"
+F9 "541-20.0AFTR-ND" 0 0 50 H I C CNN "DK_pn"
+F10 "RES SMD 20 OHM 1% 1W 2512" 0 0 50 H I C CNN "Desc"
+F11 "20 Ohms ±1% 1W Chip Resistor 2512 (6432 Metric) Automotive AEC-Q200 Thick Film" 0 0 50 H I C CNN "Detailed"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+P 5 1 1 0 0 0 40 -15 0 -30 -40 -45 0 -60 N
+P 5 1 1 0 0 60 40 45 0 30 -40 15 0 0 N
+X ~ 1 0 100 40 D 50 50 1 1 P
+X ~ 2 0 -100 40 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

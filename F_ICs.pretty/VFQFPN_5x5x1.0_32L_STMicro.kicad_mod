@@ -1,0 +1,8 @@
+(module VFQFPN_5x5x1.0_32L_STMicro (layer F.Cu) (tedit 5CD42895)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value VFQFPN_5x5x1.0_32L_STMicro (at 0 -0.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)

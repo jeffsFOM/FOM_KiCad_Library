@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BLA31BD121SN4D
+D FERRITE BEAD 120 OHM 1206 4LN
+K L ferrite bead inductor filter
+F https://www.murata.com/en-us/products/productdata/8796743204894/ENFA0008.pdf
+$ENDCMP
+#
+$CMP MSS1278T-224KLB
+D Inductor SMT iron core
+K inductor choke coil reactor magnetic
+F https://www.mouser.com/datasheet/2/597/mss1278t-270649.pdf
+$ENDCMP
+#
+#End Doc Library

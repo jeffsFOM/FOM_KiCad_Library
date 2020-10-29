@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Crystal_8MHz_2_pin
+D 8MHz ±50ppm Crystal 8pF 200 Ohms 2-SMD, No Lead
+K quartz oscillator
+F https://media.digikey.com/pdf/Data%20Sheets/NDK%20PDFs/NX8045GB.pdf
+$ENDCMP
+#
+$CMP Crystal_RTC_ECX-39
+D 32.768kHz ±20ppm Crystal 12.5pF 70 kOhms 2-SMD, No Lead
+K quartz oscillator
+F http://www.ecsxtal.com/store/pdf/ECX_39.pdf
+$ENDCMP
+#
+#End Doc Library

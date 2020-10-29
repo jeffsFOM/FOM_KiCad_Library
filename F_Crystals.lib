@@ -1,0 +1,54 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Crystal_8MHz_2_pin
+#
+DEF Crystal_8MHz_2_pin Y 0 40 N N 1 F N
+F0 "Y" 0 100 50 H V C CNN
+F1 "Crystal_8MHz_2_pin" 0 -100 50 H I C CNN
+F2 "F_Crystals:Crystal_RTC_NDK_8x4.5" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "8.000MHz" 0 0 50 H V C CNN "Val"
+F5 "NDK America, Inc." 0 0 50 H I C CNN "Mfr"
+F6 "NX8045GB-8.000000MHZ" 0 0 50 H I C CNN "MfrPn"
+F7 "644-1018-2-ND" 0 0 50 H I C CNN "DK_pn"
+F8 "CRYSTAL 8.0000MHZ 8PF SMD" 0 0 50 H I C CNN "Desc"
+F9 "8MHz ±50ppm Crystal 8pF 200 Ohms 2-SMD, No Lead" 0 0 50 H I C CNN "Detailed"
+$FPLIST
+ Crystal*
+$ENDFPLIST
+DRAW
+S -30 -60 30 60 0 1 0 N
+P 2 0 1 15 -50 -30 -50 30 N
+P 2 0 1 15 50 -30 50 30 N
+X 1 1 -100 0 50 R 50 50 1 1 P
+X 2 2 100 0 50 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Crystal_RTC_ECX-39
+#
+DEF Crystal_RTC_ECX-39 Y 0 40 N N 1 F N
+F0 "Y" 0 100 50 H V C CNN
+F1 "Crystal_RTC_ECX-39" 0 -100 50 H I C CNN
+F2 "F_Crystals:ECX-39" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "32.768KHz" 0 0 50 H V C CNN "Val"
+F5 "ECS Inc." 0 0 50 H I C CNN "Mfr"
+F6 "ECS-.327-12.5-39-TR" 0 0 50 H I C CNN "MfrPn"
+F7 "XC1658TR-ND" 0 0 50 H I C CNN "DK_pn"
+F8 "CRYSTAL 32.7680KHZ 12.5PF SMD" 0 0 50 H I C CNN "Desc"
+F9 "32.768kHz ±20ppm Crystal 12.5pF 70 kOhms 2-SMD, No Lead" 0 0 50 H I C CNN "Detailed"
+$FPLIST
+ Crystal*
+$ENDFPLIST
+DRAW
+S -30 -60 30 60 0 1 0 N
+P 2 0 1 15 -50 -30 -50 30 N
+P 2 0 1 15 50 -30 50 30 N
+X 1 1 -100 0 50 R 50 50 1 1 P
+X 2 2 100 0 50 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

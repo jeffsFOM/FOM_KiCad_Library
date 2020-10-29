@@ -1,0 +1,117 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP R_0603_100K
+D Resistor, small US symbol
+K r resistor
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf
+$ENDCMP
+#
+$CMP R_0603_10K
+D 10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film
+K r resistor
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf
+$ENDCMP
+#
+$CMP R_0603_15
+D RES SMD 15 OHM 1% 1/10W 0603
+K r resistor
+F http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf
+$ENDCMP
+#
+$CMP R_0603_200
+D RES SMD 200 OHM 1% 1/10W 0603
+K R res resistor
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf
+$ENDCMP
+#
+$CMP R_0603_221K
+D Resistor, US symbol
+K R res resistor
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf
+$ENDCMP
+#
+$CMP R_0603_240K
+D 240 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film
+K r resistor
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf
+$ENDCMP
+#
+$CMP R_0603_3.3
+D 3.3 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200, Current Sense Thick Film
+K r resistor
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf
+$ENDCMP
+#
+$CMP R_0603_392
+D Resistor, small US symbol
+K r resistor
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf
+$ENDCMP
+#
+$CMP R_0603_4.75K
+D RES SMD 4.75K OHM 1% 1/10W 0603
+K R res resistor
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf
+$ENDCMP
+#
+$CMP R_0603_475
+D 475 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film
+K r resistor
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf
+$ENDCMP
+#
+$CMP R_0603_66.5K
+D Resistor, small US symbol
+K r resistor
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf
+$ENDCMP
+#
+$CMP R_0603_68.1
+D 68.1 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film
+K r resistor
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf
+$ENDCMP
+#
+$CMP R_0603_8.2K
+D 8.2 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film
+K r resistor
+F http://www.vishay.com/docs/20035/dcrcwe3.pdf
+$ENDCMP
+#
+$CMP R_0805_100K
+D 100 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film
+K r resistor
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf
+$ENDCMP
+#
+$CMP R_0805_191K
+D 191 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film
+K r resistor
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf
+$ENDCMP
+#
+$CMP R_0805_475K
+D 475 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film
+K r resistor
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf
+$ENDCMP
+#
+$CMP R_2512_15K
+D 15 kOhms ±1% 1W Chip Resistor 2512 (6432 Metric) Automotive AEC-Q200 Thick Film
+K r resistor
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf
+$ENDCMP
+#
+$CMP R_2512_18K
+D 18 kOhms ±5% 1W Chip Resistor 2512 (6432 Metric) Automotive AEC-Q200 Thick Film
+K r resistor
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf
+$ENDCMP
+#
+$CMP R_2512_20
+D 20 Ohms ±1% 1W Chip Resistor 2512 (6432 Metric) Automotive AEC-Q200 Thick Film
+K r resistor
+F http://www.vishay.com/docs/20035/dcrcwe3.pdf
+$ENDCMP
+#
+#End Doc Library

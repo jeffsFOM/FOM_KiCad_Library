@@ -1,0 +1,24 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP D3793-6202AR
+D Connector Header Through Hole 10 position 0.100" (2.54mm)
+F http://multimedia.3m.com/mws/media/485761O/3mtm-four-wall-header-ts2245.pdf
+$ENDCMP
+#
+$CMP EHF-105-01-L-D-SM-LC
+D Connector Header Surface Mount 10 position 0.050" (1.27mm)
+F http://suddendocs.samtec.com/prints/ehf-1xx-01-xx-d-xx-xx-xx-mkt.pdf
+$ENDCMP
+#
+$CMP Molex_ufit3_2x3_vert
+D Connector Header Through Hole 6 position 0.118" (3.00mm)
+K connector
+F https://www.molex.com/pdm_docs/sd/430450612_sd.pdf
+$ENDCMP
+#
+$CMP SpadeLug
+D 0.250" (6.35mm) Quick Connect Male  Solder Connector Non-Insulated
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1217861&DocType=Customer+Drawing&DocLang=English
+$ENDCMP
+#
+#End Doc Library

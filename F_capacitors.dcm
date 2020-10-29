@@ -1,0 +1,75 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C_0402_12pF_25V_COG
+D 12pF ±2% 25V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)
+K cap capacitor
+F https://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en-us
+$ENDCMP
+#
+$CMP C_0402_18pF_25V_COG
+D 18pF ±5% 25V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)
+K cap capacitor
+F https://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en-us
+$ENDCMP
+#
+$CMP C_0603_0.01uF_50V
+D Unpolarized capacitor
+K cap capacitor
+F https://product.tdk.com/info/en/catalog/datasheets/mlcc_automotive_general_en.pdf
+$ENDCMP
+#
+$CMP C_0603_0.1uF_25V
+D Unpolarized capacitor
+K cap capacitor
+F https://product.tdk.com/info/en/catalog/datasheets/mlcc_automotive_general_en.pdf
+$ENDCMP
+#
+$CMP C_0603_0.22uF_25V
+D 0.22µF ±10% 25V Ceramic Capacitor X7R 0603 (1608 Metric)
+K cap capacitor
+F https://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx?la=en-us
+$ENDCMP
+#
+$CMP C_0603_1uF_25V
+D 1µF ±10% 25V Ceramic Capacitor X7R 0603 (1608 Metric)
+K cap capacitor
+F https://product.tdk.com/info/en/catalog/datasheets/mlcc_automotive_general_en.pdf
+$ENDCMP
+#
+$CMP C_0805_220PF
+D Unpolarized capacitor
+K cap capacitor
+F http://www.samsungsem.com/kr/support/product-search/mlcc/CL21B221KCANNNC.jsp
+$ENDCMP
+#
+$CMP C_1206_10uF_25V
+D CAP CER 10UF 25V X7R 1206
+K cap capacitor
+F https://product.tdk.com/info/en/catalog/datasheets/mlcc_automotive_general_en.pdf
+$ENDCMP
+#
+$CMP C_1206_1uF
+D Unpolarized capacitor
+K cap capacitor
+F http://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2018/07/19/CL31B105KCHNNNE.pdf
+$ENDCMP
+#
+$CMP C_1210_100uF_10V
+D Unpolarized capacitor
+K cap capacitor
+F http://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2018/07/19/CL31B105KCHNNNE.pdf
+$ENDCMP
+#
+$CMP C_FILM_3_9UF_250V
+D Metallized Polyester capacitor
+K cap capacitor
+F http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+ABD0023+ECQE2395KF+7+WW
+$ENDCMP
+#
+$CMP C_TANT_POLY_220UF_6_3V
+D Polarized capacitor, small US symbol
+K cap capacitor
+F https://media.digikey.com/pdf/Data%20Sheets/Panasonic%20Capacitors%20PDFs/TPE_Series_POSCAP_Rev02_Oct_2017.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,51 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DB2W40300L
+D Diode Schottky 40V 3A (DC) Surface Mount Mini2-F3-B
+K diode Schottky
+F https://industrial.panasonic.com/content/data/SC/ds/ds4/DB2W40300L_E.pdf
+$ENDCMP
+#
+$CMP DFLS1150-7
+D Diode Schottky 40V 3A (DC) Surface Mount Mini2-F3-B
+K diode Schottky
+F https://www.diodes.com/assets/Datasheets/ds30593.pdf
+$ENDCMP
+#
+$CMP FSV20150V
+D Diode Schottky 150V 20A Surface Mount TO-277-3
+K diode Schottky SCHDPAK
+F https://www.onsemi.com/pub/Collateral/FSV20150V-D.PDF
+$ENDCMP
+#
+$CMP LED_0603_Green
+D Light emitting diode, small symbol, filled shape
+K LED diode light-emitting-diode
+F http://optoelectronics.liteon.com/upload/download/DS22-2000-228/LTST-C191KGKT.PDF
+$ENDCMP
+#
+$CMP LED_0603_Red
+D Light emitting diode, small symbol, filled shape
+K LED diode light-emitting-diode
+F http://optoelectronics.liteon.com/upload/download/DS22-2000-223/LTST-C191KRKT.PDF
+$ENDCMP
+#
+$CMP LED_0805_Green
+D Light emitting diode, small symbol, filled shape
+K LED diode light-emitting-diode
+F https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C171GKT.pdf
+$ENDCMP
+#
+$CMP MBR0540T1G
+D Diode Schottky 40V 3A (DC) Surface Mount Mini2-F3-B
+K diode Schottky
+F http://www.onsemi.com/pub/Collateral/MBR0540T1-D.PDF
+$ENDCMP
+#
+$CMP PMEG10010ELRX
+D Diode Schottky 100V 1A Surface Mount CFP3 3.7nS fast recovery
+K diode Schottky
+F https://assets.nexperia.com/documents/data-sheet/PMEG10010ELR.pdf
+$ENDCMP
+#
+#End Doc Library
