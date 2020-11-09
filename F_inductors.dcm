@@ -6,6 +6,24 @@ K L ferrite bead inductor filter
 F https://www.murata.com/en-us/products/productdata/8796743204894/ENFA0008.pdf
 $ENDCMP
 #
+$CMP DLP11SA900HL2L
+D EMI 2-inductor filter
+K EMI filter, USB filter
+F https://media.digikey.com/pdf/Data%20Sheets/Murata%20PDFs/DLx_Series.pdf
+$ENDCMP
+#
+$CMP Filter_EMI_CommonMode
+D EMI 2-inductor common mode filter
+K EMI common mode filter
+F ~
+$ENDCMP
+#
+$CMP MSD1260-333
+D Coupled Inductors 33uH Shld 20% 2.32A 134mOhms
+K Coupled Inductor
+F https://www.mouser.com/datasheet/2/597/msd1260-220355.pdf
+$ENDCMP
+#
 $CMP MSS1278T-224KLB
 D Inductor SMT iron core
 K inductor choke coil reactor magnetic

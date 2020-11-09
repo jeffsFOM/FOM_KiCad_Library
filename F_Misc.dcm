@@ -12,6 +12,12 @@ K photocouplers photorelay solidstate relay normally opened (1-Form-A)
 F http://www.ixysic.com/home/pdfs.nsf/www/LCA110.pdf/$file/LCA110.pdf
 $ENDCMP
 #
+$CMP RClamp3654P.TCT
+D 30V Clamp 3A (8/20µs) Ipp Tvs Diode Surface Mount SLP1616P6 (1.6x1.6)
+K USB, ESD clamp
+F https://semtech.my.salesforce.com/sfc/p/E0000000JelG/a/44000000MCXN/wh6ib8C76Sfz_._po4NLxIgDm.uk2W3aErWuo281nzw
+$ENDCMP
+#
 $CMP SW_pb_no_mom_CnK_K12S
 D Pushbutton Switch SPST-NO Keyswitch Surface Mount
 K switch normally-open pushbutton push-button
