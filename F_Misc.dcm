@@ -6,16 +6,64 @@ K VDR resistance
 F http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AWA0003+ERZVF2M121+7+WW
 $ENDCMP
 #
+$CMP L2293QTR
+D Half Bridge (4) Driver DC Motors, Relays, Solenoids, Stepper Motors  32-VFQFPN (5x5)
+K driver half bridge
+F https://www.st.com/content/ccc/resource/technical/document/datasheet/group2/86/3b/3e/67/62/fe/47/96/CD00204113/files/CD00204113.pdf/jcr:content/translations/en.CD00204113.pdf
+$ENDCMP
+#
 $CMP LCA110
 D Solid State Relay SPST-NO (1 Form A) 6-SMD (0.300", 7.62mm)
 K photocouplers photorelay solidstate relay normally opened (1-Form-A)
 F http://www.ixysic.com/home/pdfs.nsf/www/LCA110.pdf/$file/LCA110.pdf
 $ENDCMP
 #
+$CMP LT1763-3.3
+D Linear Voltage Regulator IC Positive Fixed 1 Output  500mA 8-SOIC
+K LDO regulator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1763fh.pdf
+$ENDCMP
+#
+$CMP LT3796
+D LED Driver IC 1 Output DC DC Controller SEPIC, Step-Down (Buck), Step-Up (Boost) Analog, PWM Dimming  28-TSSOP-EP
+K current, voltage, smps
+F http://www.analog.com/media/en/technical-documentation/data-sheets/3796fb.pdf
+$ENDCMP
+#
+$CMP LT6106
+D Current Sense Amplifier 1 Circuit  TSOT-23-5
+K Current sense
+F https://www.analog.com/media/en/technical-documentation/data-sheets/6106fb.pdf
+$ENDCMP
+#
+$CMP LTC4440A
+D High-side, N-Channel, Mosfet driver, 80V input, -40°C to +85°C, MSOP-8
+K high-side mosfet-driver
+F http://www.linear.com/docs/43774
+$ENDCMP
+#
+$CMP LTC7138
+D 400mA High efficiency 140V step-down converter, MSOP-16(12)
+K buck dc-dc switcher switching
+F https://www.analog.com/media/en/technical-documentation/data-sheets/7138f.pdf
+$ENDCMP
+#
+$CMP PCA9555DW
+D IC I/O EXPANDER I2C 16B 24SOIC
+K GPIO, EXPANDER, I2C
+F http://www.ti.com/lit/ds/symlink/pca9555.pdf
+$ENDCMP
+#
 $CMP RClamp3654P.TCT
 D 30V Clamp 3A (8/20µs) Ipp Tvs Diode Surface Mount SLP1616P6 (1.6x1.6)
 K USB, ESD clamp
 F https://semtech.my.salesforce.com/sfc/p/E0000000JelG/a/44000000MCXN/wh6ib8C76Sfz_._po4NLxIgDm.uk2W3aErWuo281nzw
+$ENDCMP
+#
+$CMP SFH61916
+D Optoisolator Transistor Output 3750Vrms 4 Channel 16-SOP
+K Optocoupler, Phototransistor Output, 5300 VRMS, VCEO 70V, CTR% 40-80
+F http://www.vishay.com/docs/83687/sfh6916.pdf
 $ENDCMP
 #
 $CMP SW_pb_no_mom_CnK_K12S
@@ -28,6 +76,12 @@ $CMP Switch_momentary_PTS645
 D Tactile Switch SPST-NO Top Actuated Surface Mount
 K switch normally-open pushbutton push-button
 F https://www.ckswitches.com/media/1471/pts645.pdf
+$ENDCMP
+#
+$CMP TM4C123GH6PM
+D Tiva ARM 32bit CortexM4 Microcotroller, 80MHz, 32kB Flash, 12kB SRAM, 2k EEPROM, LQFP64
+K ARM Tiva Cortex M4 MCU
+F http://www.ti.com/lit/ds/symlink/tm4c1230c3pm.pdf
 $ENDCMP
 #
 $CMP Testpoint

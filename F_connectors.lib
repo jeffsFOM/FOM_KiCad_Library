@@ -151,6 +151,7 @@ F8 "0.250\" (6.35mm) Quick Connect Male  Solder Connector Non-Insulated" 0 0 50 
 DRAW
 P 2 0 0 10 0 100 0 -100 N
 X 1 1 -200 0 200 R 40 40 0 0 P
+X 2 2 -200 0 100 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #

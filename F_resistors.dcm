@@ -78,6 +78,12 @@ K r resistor
 F http://www.vishay.com/docs/20035/dcrcwe3.pdf
 $ENDCMP
 #
+$CMP R_0805_050m_cursense
+D 50 mOhms ±1% 0.25W, 1/4W Chip Resistor 0805 (2012 Metric) Current Sense Metal Film
+K r resistor
+F https://www.ohmite.com/assets/docs/res_kdv.pdf?r=false
+$ENDCMP
+#
 $CMP R_0805_100K
 D 100 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film
 K r resistor
