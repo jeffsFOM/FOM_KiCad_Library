@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-05062020-035183";"";
+"REFERENCE";"53426-0210";"";
+"TraceParts.PartTitle";"Connector,PCB,Header,Angel,2.5mmPitch";"";
+"TraceParts.InstanceId";"90-05062020-0351832N3XX9WWY2MK673V115V3T3RA";"";
+"DESIGN";"Connector,PCB,Header,Angel,2.5mmPitch";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Molex";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"MOLEX:90-05062020-035183";"";

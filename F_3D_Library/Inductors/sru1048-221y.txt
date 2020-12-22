@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-18112016-085535";"";
+"REFERENCE";"SRU1048-221Y";"";
+"TraceParts.PartTitle";"SRU1048 Shielded Power Inductor, 220uH";"";
+"TraceParts.InstanceId";"10-18112016-0855352A3ASC1OXRNSUMGPTNSW63LO0";"";
+"DESIGN";"SRU1048 Shielded Power Inductor, 220uH";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"BOURNS";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"BOURNS:/F_BOURNS/10-18112016-085535";"";

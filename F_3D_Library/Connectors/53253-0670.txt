@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-04062020-056333";"";
+"REFERENCE";"53253-0670";"";
+"TraceParts.ClassPath";"";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TraceParts.InstanceId";"90-04062020-0563332N3XX9WWY2MK673V115V3T3RA";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartTitle";"Connector,PCB,Wire to Board,2.0mmPitch,Straight H";"";
+"SUPPLIER";"Molex";"";
+"DESIGN";"Connector,PCB,Wire to Board,2.0mmPitch,Straight H";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
