@@ -1,0 +1,19 @@
+Notes on making fab and assembly drawings from KiCad.
+
+Note that KiCad can only export DXF files one layer at a time.  So compositing
+more than one layer to make a fabrication or assembly drawing can be a bit of
+a challenge.  What I have done so far is:
+
+1. Fab/Assy: Select the layers to view in the drawing.  Then use the PRINT
+function rather than plotting to print out the file in SVG (scalable vector
+graphic) rather than PDF.  Open the SVG file in the Gimp and trim as
+necessary.  Depending on the size of the board, if small, import at 600dpi.
+If large use 300dpi, or whatever. Crop the image and export as a .png image.
+
+2. In AutoCAD on a drawing layer make sure imageframe is ON, then import as
+raster graphics the top and bottom images of the board assemblies and fab
+drawings.  Complete the rest of the drawing as usual.
+
+3. For drill drawings KiCad exports those as DXF files so use that one for
+creating drawings with dimensions.  NPT and PTH drawings are all created
+separately so have to be composited in AutoCAD to complete the drill drawing. 
